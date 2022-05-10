@@ -1,7 +1,7 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/KGPLI.jpg" width="250" height="250" /></p>  
-
 ## K P G L I  
 ### Kelompok Penggiat GNU/Linux Indonesia  
+<p align="center"><img src="https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/KGPLI.jpg" width="250" height="250" /></p>  
+
 #### Sejarah :  
 KPGLI Mulai berwacana dan sekaligus Ide Berdirinya Sejak 17 Juli 2019 didirikan oleh Dindin Hernawan dan Ketua Organiasi Saat ini di Pimpin Oleh Faqih Yugo Susilo. KPGLI Merupakan singkatan dari Kelompok Penggiat GNU/Linux Indonesia. Tujuan Didirikannya salah satunya sebagai wadah bagi sebuah kelompok dalam menggiati kegiatan opensource khususnya Distro / Distribusi GNU/Linux.
 
