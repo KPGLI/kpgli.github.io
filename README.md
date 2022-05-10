@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/KGPLI.jpg" width="250" height="250" /></p>  
+
 ## K P G L I  
 ### Kelompok Penggiat GNU/Linux Indonesia  
 #### Sejarah :  
@@ -41,10 +43,12 @@ Maulana Teguh Setiawan
     Peserta Group Whatsapp KGPLI - Xenta OS Linux (Ketua Terpilih Faqih) 2020-Dst
 
 #### Anggota Tervaliditas   
+<p align="center"><img src="https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/sample_piagam_keanggotaan.png" width="200" height="187" /></p>
 
     Berhak Mendapatkan Piagam Keanggotaan 
     Sebagai Tanda Fisik Ke Ikut sertaan.
     Dikirimkan Via Chat atau E-Mail (Berkas File JPG/PDF)
+<p align="center"><img src="https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/sample_sticker_kpgli_developer.png" width="200" height="185" /></p>
 
 
     Berhak Mendapatkan Sticker KPGLI & Developer Vynil Gratis.
