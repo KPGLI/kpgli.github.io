@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+## K P G L I  
+Kelompok Penggiat GNU/Linux Indonesia  
+Sejarah :
+KPGLI Mulai berwacana dan sekaligus Ide Berdirinya Sejak 17 Juli 2019 didirikan oleh Dindin Hernawan dan Ketua Organiasi Saat ini di Pimpin Oleh Faqih Yugo Susilo. KPGLI Merupakan singkatan dari Kelompok Penggiat GNU/Linux Indonesia. Tujuan Didirikannya salah satunya sebagai wadah bagi sebuah kelompok dalam menggiati kegiatan opensource khususnya Distro / Distribusi GNU/Linux.
 
-You can use the [editor on GitHub](https://github.com/KPGLI/kpgli.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Visi :
+"Membangun Kelompok Solid dalam Menggiati Distro GNU/Linux Lokal Indonesia"
 
-```markdown
-Syntax highlighted code block
+Misi :
 
-# Header 1
-## Header 2
-### Header 3
+    Membangun Kelompok Solid penggiat Distro GNU/Linux
+    Mempererat tali silaturahmi sesama kelompok penggiat Distro GNU/Linux
+    Meramaikan  dan turut serta dalam memajukan Distro GNU/Linux Lokal Indonesia
+    Mendukung Proyek Open Source Khususnya Lokal Indonesia
 
-- Bulleted
-- List
+Alamat Sekretariat :
 
-1. Numbered
-2. List
+Rumah Bendahara KGPLI
+Maulana Teguh Setiawan
 
-**Bold** and _Italic_ and `Code` text
+Tujuan :
 
-[Link](url) and ![Image](src)
-```
+    Mengirimkan anggota ke dalam satu proyek tertentu dan turut membantu proyek khususnya.
+    Mendonasikan berupa berupa materi baik dana dan dukungan kepada proyek proyek open source lokal indonesia
+    Turut serta hadir dalam acara2 seminar, event event open source, salah satunya mengirimkan perwakilan dari KPGLI baik offline dan online.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+                          Ketua
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KPGLI/kpgli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+                     Faqih Yogo Susilo
 
-### Support or Contact
+                       NRP : KPGLI#001
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+            Sekretaris                   Bendahara
+
+         Dindin Hernawan         Maulana Teguh Setiawan
+
+          NRP : KPGLI#002              NRP : KPGLI#003
+                        
+Anggota Sementara
+
+    Pemegang Piagam Lama (Ketua Dindin Hernawan) 2019-2020
+    Peserta Group Whatsapp KGPLI - Xenta OS Linux (Ketua Terpilih Faqih) 2020-Dst
+
+Anggota Tervaliditas 
+Berhak Mendapatkan Piagam Keanggotaan 
+Sebagai Tanda Fisik Ke Ikut sertaan.
+Dikirimkan Via Chat atau E-Mail (Berkas File JPG/PDF)
+
+
+Berhak Mendapatkan Sticker KPGLI & Developer Vynil Gratis.
+* Ongkos Kirim Ditanggung Penerima / Anggota Terkait
+Hubungi Sekretaris KPGLI
+
+
+Nomer Registrasi Piagam (NRP) - Nama Anggota Terdaftar
+NRP : KPGLI#004 M. SAMMAN TAHTA TAUHID
+NRP : KPGLI#005 MOHAMMAD AGUNG
+NRP : KPGLI#006 AFRIZAL F. A.
+NRP : KPGLI#007 MOHAMMAD RIDWAN RAIS
+NRP : KPGLI#008 IBNU SYAWAL AS-SALIM
+NRP : KPGLI#009 HAFIZH BAHARIZKY
+NRP : KPGLI#010 
+NRP : KPGLI#011
+NRP : KPGLI#012
+NRP : KPGLI#013
+NRP : KPGLI#014
+NRP : KPGLI#015
+NRP : KPGLI#016
+NRP : KPGLI#017
+NRP : KPGLI#018
+NRP : KPGLI#019
+NRP : KPGLI#020
+NRP : KPGLI#021
+NRP : KPGLI#022
+NRP : KPGLI#023
+NRP : KPGLI#024
+NRP : KPGLI#025 
+NRP : KPGLI#026
+NRP : KPGLI#027
+NRP : KPGLI#028
+NRP : KPGLI#029
+NRP : KPGLI#030
+NRP : KPGLI#031
+NRP : KPGLI#032
+NRP : KPGLI#033
+NRP : KPGLI#034
