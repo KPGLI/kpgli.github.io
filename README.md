@@ -41,7 +41,11 @@ Maulana Teguh Setiawan
 
     Pemegang Piagam Lama (Ketua Dindin Hernawan) 2019-2020
     Peserta Group Whatsapp KGPLI - Xenta OS Linux (Ketua Terpilih Faqih) 2020-Dst
-
+    
+#### Kerangka Virtual Berkomnukasi dan Berdiskusi 
+   Group Whatsapp "KPGLI"  
+   Ivited Must Valid  
+   
 #### Anggota Tervaliditas   
 <p align="center"><img src="https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/sample_piagam_keanggotaan.png" width="200" height="187" /></p>
 
