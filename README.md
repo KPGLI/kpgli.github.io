@@ -45,7 +45,7 @@ Maulana Teguh Setiawan
     Peserta Group Whatsapp KGPLI - Xenta OS Linux (Ketua Terpilih Faqih) 2020-Dst
     
 #### Kerangka Virtual Berkomnukasi dan Berdiskusi 
-<p align="center"><img src="https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/whatsapp-kpgli.jpg" width=100% height=100% /></p>
+![Whatsapp KPGLI](https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/whatsapp-kpgli.jpg)
 
    Group Whatsapp "KPGLI"  
    Peserta Baru diIzinkan Registrasi ke Sekretasis "Dindin Hernawan" Kontak fb.com/dindinG41TR3  
