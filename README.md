@@ -17,6 +17,8 @@ KPGLI Mulai berwacana dan sekaligus Ide Berdirinya Sejak 17 Juli 2019 didirikan 
     Mendukung Proyek Open Source Khususnya Lokal Indonesia
     
 #### Project :
+<p align="center"><img src="https://raw.githubusercontent.com/KPGLI/kpgli.github.io/main/img/website-xentaos.png" width="805" height="350" /></p>  
+
     Maintainer dan Pengelola dari Xenta OS Linux Project
     [http](http://www.xentaos.com/)
 
