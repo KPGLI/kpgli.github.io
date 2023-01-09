@@ -15,6 +15,10 @@ KPGLI Mulai berwacana dan sekaligus Ide Berdirinya Sejak 17 Juli 2019 didirikan 
     Mempererat tali silaturahmi sesama kelompok penggiat Distro GNU/Linux
     Meramaikan  dan turut serta dalam memajukan Distro GNU/Linux Lokal Indonesia
     Mendukung Proyek Open Source Khususnya Lokal Indonesia
+    
+#### Project :
+    Maintainer dan Pengelola dari Xenta OS Linux Project
+    [http](http://www.xentaos.com/)
 
 #### Alamat Sekretariat :  
 
